@@ -30,7 +30,7 @@ class DisableButton extends StatelessWidget {
       child: ElevatedButton(
         onPressed: onPressed,
         style: ElevatedButton.styleFrom(
-            backgroundColor: AppColor.ink06,
+            backgroundColor: AppColor.ink04,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(4),
             )
@@ -47,7 +47,7 @@ class DisableButton extends StatelessWidget {
       child: ElevatedButton(
         onPressed: onPressed,
         style: ElevatedButton.styleFrom(
-            backgroundColor: AppColor.ink06,
+            backgroundColor: AppColor.ink04,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(4),
             )
@@ -64,7 +64,7 @@ class DisableButton extends StatelessWidget {
       child: ElevatedButton(
         onPressed: onPressed,
         style: ElevatedButton.styleFrom(
-            backgroundColor: AppColor.ink06,
+            backgroundColor: AppColor.ink04,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(4),
             )

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 class AppFont {
   static TextStyle hero = const TextStyle(
     fontSize: 72,
@@ -98,6 +97,36 @@ class AppFont {
   static TextStyle componentSmall = const TextStyle(
     fontSize: 12,
     fontWeight: FontWeight.w600,
+    color: Colors.black,
+  );
+  static TextStyle h0 = const TextStyle(
+    fontSize: 72,
+    fontWeight: FontWeight.w700,
+    color: Colors.black,
+  );
+  static TextStyle h1 = const TextStyle(
+    fontSize: 56,
+    fontWeight: FontWeight.w700,
+    color: Colors.black,
+  );
+  static TextStyle h2 = const TextStyle(
+    fontSize: 40,
+    fontWeight: FontWeight.w700,
+    color: Colors.black,
+  );
+  static TextStyle h3 = const TextStyle(
+    fontSize: 32,
+    fontWeight: FontWeight.w700,
+    color: Colors.black,
+  );
+  static TextStyle h4 = const TextStyle(
+    fontSize: 24,
+    fontWeight: FontWeight.w700,
+    color: Colors.black,
+  );
+  static TextStyle h5 = const TextStyle(
+    fontSize: 20,
+    fontWeight: FontWeight.w700,
     color: Colors.black,
   );
 }
